@@ -1,0 +1,37 @@
+Skill Based NFT
+
+https://suiexplorer.com/object/0x4e1892a087d6242617cf98443182d86596ba43d179970c9f2210ee77ac4aa5d1?network=testnet
+
+https://suiexplorer.com/object/0x5b92b7ca10fea606dc3de419187eb17dd9c800714c81ad949c5471d201341910?network=testnet
+
+https://suiexplorer.com/object/0x9c6236afb9f2db828f3ef4751096f483dfdc6d64e4fd9380e8f230907152fd1f?network=testnet
+
+https://suiexplorer.com/object/0x15226a9250dc98b7f90d376332e94fa5518e1f10055ad97cf02b320126c2987f?network=testnet
+
+https://suiexplorer.com/object/0xad16a3676d88824ac5556d5ea14ab207b7be0f11765786397ae85ef432541467?network=testnet
+
+
+Dynamic NFT
+
+https://suiexplorer.com/object/0xa51d6795fabeeb581714607c42315242264e5b30b7d70e865f641ef3289d8d3c?network=testnet
+
+https://suiexplorer.com/object/0xe0400a2df96e84031286053ded73654a15b41a88bc4c33c788418690652f66a0?network=testnet
+
+https://suiexplorer.com/object/0x6ad8f319f7e3a3fa18fee3b113dd671b598f9c211a924fc9468d173b626dec51?network=testnet
+
+https://suiexplorer.com/object/0xa6cccc2ac203149517fa5c87cbb6a72f0d163c419cf4fcfae6396f9b3c68a265?network=testnet
+
+https://suiexplorer.com/object/0x69b2e6b3b08b967979d7a5e4ae3717d00a425a386aa0bf07f380c714b5590f75?network=testnet
+
+
+Geo Tagged NFT
+
+https://suiexplorer.com/object/0x1668aae4088cd779df48534a68ea85ef77a163ae4218a9c85abfef73ca8a373c?network=testnet
+
+https://suiexplorer.com/object/0xe931c05b0ab0045b333bb97d88c2b7f237ab2fe8269eb6fa0ecc12b5b84e1e1f?network=testnet
+
+https://suiexplorer.com/object/0x94881e022bfda878299394cd8ec3497496cc216fe0e5bb6fa0966ecc0936d7cb?network=testnet
+
+https://suiexplorer.com/object/0x050214e3cc1dca0323681287297bd49b2c78a479b5658a09b038d027e33a35d9?network=testnet
+
+https://suiexplorer.com/object/0xc5791930f4966fe77501890ab46fdd329c5f65a1b5c6fa30a30dccff994975d2?network=testnet
