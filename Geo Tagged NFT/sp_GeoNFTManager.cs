@@ -38,7 +38,7 @@ namespace Hackathon.RE.SUI.Wallet
         void NoNftMessage(){
             TextMeshProUGUI noNFT = Instantiate(this.noNft, itemParent.transform, false)
                 .GetComponent<TextMeshProUGUI>();
-            noNFT.text = "NO ANY GEO TAGGED NFT IN THE WALLET";
+            noNFT.text = "NO GEO TAGGED NFTS IN THE WALLET";
         }
 
         // Start is called before the first frame update
