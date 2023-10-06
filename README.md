@@ -20,3 +20,25 @@ Private Keys
 0xefb2706e4b749aa9b0194084f9d2859cb65bfa1b715ad98c2739f428241c3d88
 0xf4c13dcc173c0edfa2832fe124e1a45d671f1ed175d3f9f881edf98cf95d825c
 0xe0b19eb2366513a97385555e54669d890e1e65cc5da2cb09eb496cb3a91f920c
+
+
+NFT Categories: 
+
+Geo-Tagged NFT: NFT's attributes change to their corresponding location based on a player's location.
+
+// Working
+
+More Info: https://docs.google.com/document/d/1qnKG8rZTU_Yrx9Nf4g3Hwu4w1N8cgfneb6kuc2Ebjzk/edit?usp=sharing
+
+Dynamic NFT: Changes based on the player's achievement, game events, or specific actions, add excitement and unpredictability.
+
+// Working
+
+More Info: https://docs.google.com/document/d/1V86I_IjmsV9Kp-_8BXXkt0IeALomfbeeThSPcJlBgts/edit?usp=sharing 
+
+Questing NFT: Token Glitch NFT allows a holder to stake his NFT in the game findable at random %s(max 10%). When users find these NFTs, they earn X tokens in bonuses.
+
+// Working
+
+More Info: https://docs.google.com/document/d/10DyFVPBlEa4v2z1M1blT6aCNMzE6jBPDsbS4Yj6VnaY/edit?usp=sharing
+
