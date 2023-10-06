@@ -62,6 +62,10 @@ GET: https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/find/:
 
 GET: https://api.mirrorworld.fun/v2/sui/testnet/asset/nft/owner
 
+Request Body:
+-   owner_address
+    - can be any wallet address to fetch NFTs
+
 ## Get Current Location Information:
 
 GET: http://www.geoplugin.net/php.gp?ip={ipAddress}
