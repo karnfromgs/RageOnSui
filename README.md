@@ -61,22 +61,22 @@ GET: https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/find/:
 
 ## NFT Categories
 
-**Geo-Tagged NFT:**
-NFT's attributes change to their corresponding location based on a player's location.
+#### Geo-Tagged NFT
+Geo-tagged NFTs are digital assets with attributes that dynamically adjust in response to the geographical position of a user. These tokens are designed to synchronize their properties with the real-world location of the interacting player.
 
 // Working
 
 More Info: https://docs.google.com/document/d/1qnKG8rZTU_Yrx9Nf4g3Hwu4w1N8cgfneb6kuc2Ebjzk/edit?usp=sharing
 
-**Dynamic NFT:**
-Changes based on the player's achievement, game events, or specific actions, add excitement and unpredictability.
+#### Dynamic NFT
+Dynamic NFTs change as you play the game, based on what you achieve or what happens in the game. This adds excitement and keeps things unpredictable
 
 // Working
 
 More Info: https://docs.google.com/document/d/1V86I_IjmsV9Kp-_8BXXkt0IeALomfbeeThSPcJlBgts/edit?usp=sharing 
 
-**Questing NFT:**
-Token Glitch NFT allows a holder to stake his NFT in the game findable at random %s(max 10%). When users find these NFTs, they earn X tokens in bonuses.
+#### Questing NFT
+Questing NFT is a type of NFT that can be staked or put into the game with a chance of being randomly discovered by other users, up to a maximum of 10%. When users come across these NFTs while playing the game, they receive X tokens as a bonus reward. Essentially, it's like a treasure hunt within the game where players can find and earn extra tokens by discovering these special NFTs.
 
 // Working
 
