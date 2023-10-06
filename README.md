@@ -3,7 +3,7 @@ Rage Effect on Sui
 
 # Test Gamers’ Wallet Accounts
 
-All gamer accounts have 1 Sui in it.
+All gamer accounts have 1 Sui in them.
 
 Public Keys
 
@@ -21,8 +21,25 @@ Private Keys
 0xf4c13dcc173c0edfa2832fe124e1a45d671f1ed175d3f9f881edf98cf95d825c
 0xe0b19eb2366513a97385555e54669d890e1e65cc5da2cb09eb496cb3a91f920c
 
+## Mint token
 
-**NFT Categories: **
+POST: https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/mint
+
+Request Body:
+
+- name
+    - NFT name
+- description
+    - NFT description. Stored on-chain
+- image_url
+- metadata_url
+- to_wallet_address
+    - can be any wallet address to receive the minted NFT
+- fee_payer_wallet
+    - **public_key from above test wallets**
+
+
+**NFT Categories:**
 
 **Geo-Tagged NFT:**
 NFT's attributes change to their corresponding location based on a player's location.
