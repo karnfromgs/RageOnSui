@@ -41,9 +41,9 @@ Request Body:
 Sample cURL:
 
 ```
-curl --location 'https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/mint' \
---header 'x-api-key: your-api-key' \
---header 'Content-Type: application/json' \
+curl --location 'https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/mint'
+--header 'x-api-key: your-api-key'
+--header 'Content-Type: application/json'
 --data '{
     "name": "Rage Effect",
     "description": "Rage Effect Test Mint",
