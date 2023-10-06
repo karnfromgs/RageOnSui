@@ -38,6 +38,22 @@ Request Body:
 - fee_payer_wallet
     - **public_key from above test wallets**
 
+Sample cURL:
+
+'''
+curl --location 'https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/mint' \
+--header 'x-api-key: mw_testX2TA7hQAeLIyPrVd19tY3LwcTV1GWoh7dYn' \
+--header 'Content-Type: application/json' \
+--data '{
+    "name": "MIRROR",
+    "description": "some mint",
+    "image_url": "http://metadata-assets.mirrorworld.fun/mirror_jump/images/Rare_Pirate Captain.png",
+    "metadata_url": "https://metadata-assets.mirrorworld.fun/mirror_jump/metadata/1.json",
+    "to_wallet_address": "0xdd521e99d0c313ff93fb5bd6482a1dbe3a9f555180e1d66c3f9d71db98ca135a",
+    "fee_payer_wallet": "0xab34e27430c9216a30080ed95c42e2432a87706fb186330abb5a3c244e16fa99"
+}'
+'''
+
 
 **NFT Categories:**
 
