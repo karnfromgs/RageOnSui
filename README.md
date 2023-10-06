@@ -59,7 +59,7 @@ curl --location 'https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-e
 GET: https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/find/:nft_object_id
 
 
-**NFT Categories:**
+## NFT Categories
 
 **Geo-Tagged NFT:**
 NFT's attributes change to their corresponding location based on a player's location.
