@@ -66,6 +66,17 @@ Request Body:
 -   owner_address
     - can be any wallet address to fetch NFTs
 
+Sample cURL:
+
+```
+curl --location 'https://api.mirrorworld.fun/v2/sui/testnet/asset/nft/owner'
+--header 'x-api-key: your-api-key'
+--header 'Content-Type: application/json'
+--data '{
+    "owner_address": "0xab34e27430c9216a30080ed95c42e2432a87706fb186330abb5a3c244e16fa99"
+}'
+```
+
 ## Get Current Location Information:
 
 GET: http://www.geoplugin.net/php.gp?ip={ipAddress}
