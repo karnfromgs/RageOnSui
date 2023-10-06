@@ -21,7 +21,7 @@ Private Keys
 0xf4c13dcc173c0edfa2832fe124e1a45d671f1ed175d3f9f881edf98cf95d825c
 0xe0b19eb2366513a97385555e54669d890e1e65cc5da2cb09eb496cb3a91f920c
 
-## Mint token
+## Mint SUI token
 
 POST: https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/mint
 
@@ -54,7 +54,7 @@ curl --location 'https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-e
 }'
 ```
 
-## Get Token
+## Get SUI Token
 
 GET: https://api-staging.mirrorworld.fun/v2/sui/testnet/asset/rage-effect/find/:nft_object_id
 
