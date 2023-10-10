@@ -94,8 +94,8 @@ Dynamic NFTs change as you play the game, based on what you achieve or what happ
 
 More Info: https://docs.google.com/document/d/1V86I_IjmsV9Kp-_8BXXkt0IeALomfbeeThSPcJlBgts/edit?usp=sharing 
 
-- #### Questing NFT
-Questing NFT is a type of NFT that can be staked or put into the game with a chance of being randomly discovered by other users, up to a maximum of 10%. When users come across these NFTs while playing the game, they receive X tokens as a bonus reward. Essentially, it's like a treasure hunt within the game where players can find and earn extra tokens by discovering these special NFTs.
+- #### Hide n Seek/Questing NFT
+Questing NFT is a type of NFT that can be staked or put into the game with a chance of being randomly discovered by other users, up to a maximum of 10% in any match. When users come across these NFTs while playing the game, they and the staker receive X tokens as a bonus reward. Essentially, it's like a treasure hunt within the game where players can find and earn extra tokens by discovering these special NFTs.
 
 More Info: https://docs.google.com/document/d/10DyFVPBlEa4v2z1M1blT6aCNMzE6jBPDsbS4Yj6VnaY/edit?usp=sharing
 
